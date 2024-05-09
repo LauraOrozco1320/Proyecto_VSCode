@@ -1,2 +1,2 @@
 # actividad VS code 
-HOLA DESDE V16
+HOLA DESDE v16
